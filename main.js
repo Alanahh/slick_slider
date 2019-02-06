@@ -16,6 +16,7 @@ $( "div.wrap" ).scrollTop( 300 );
         fade: true,
         asNavFor: ".my-second-class"   
       });
+      
       $('.my-second-class').slick({
         centerMode: true,
         infinite: true,

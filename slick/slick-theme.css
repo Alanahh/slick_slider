@@ -81,9 +81,9 @@
 {
     left: -25px;
 }
-.my-first-class .slick-prev{
+/* .my-first-class .slick-prev{
     left: 45px;
-}
+} */
 
 [dir='rtl'] .slick-prev
 {
@@ -103,9 +103,9 @@
 {
     right: -25px;
 }
-.my-first-class .slick-next{
+/* .my-first-class .slick-next{
     right: 45px;
-}
+} */
 [dir='rtl'] .slick-next
 {
     right: auto;
