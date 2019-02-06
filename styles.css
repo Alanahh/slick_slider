@@ -1,0 +1,45 @@
+.wrap:first-child { 
+    margin-top: 40px;
+  }
+body{
+    background: linear-gradient(#738e96 ,#9ebaa0);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    min-height: 100vh;
+}
+.wrap{
+    background: rgba(0, 0, 0, 0.3);
+
+     max-width: 75%;
+     margin: 0 auto;
+}
+.my-first-class img{
+   
+    margin: 0 auto;
+}
+
+/* .slick-prev {
+    left: 50px;
+} */
+.slick-next {
+    right: 50px;
+}
+/* #738e96 */
+/* #9ebaa0 */
+.my-second-class img{
+    margin: 0 auto; 
+    width: 300px;
+    height: 199px;
+}
+.my-third-class img{
+    /* margin: 0 auto;  */
+   width: 250px;
+   height: 139px;
+   margin: 0 auto;
+
+}
+.sl{
+    height: 100px;
+    overflow: hidden;
+    bottom: 0;
+}
